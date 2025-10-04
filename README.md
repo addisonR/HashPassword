@@ -11,12 +11,13 @@ Dirigido a: Usuarios que necesitan contraseñas seguras de forma rápida, desarr
 
 # Tecnologías Empleadas
 
-EJS	Estructura principal de la aplicación.
-CSS3	Estilizado y diseño de la interfaz de usuario.
-JavaScript (Vanilla JS)	Lógica principal de generación/codificación y manejo del DOM.
-Express.js Framework para server.
-dotenv Para las variables de entorno.
-bcrypt Para el hashea de el texto plano.
+* EJS	Estructura principal de la aplicación.
+* CSS3	Estilizado y diseño de la interfaz de usuario.
+* JavaScript (Vanilla JS)	Lógica principal de generación/codificación y manejo del DOM.
+* Express.js Framework para server.
+* dotenv Para las variables de entorno.
+* bcrypt Para el hashea de el texto plano.
+
 
 
 
