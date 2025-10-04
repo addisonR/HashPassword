@@ -8,7 +8,7 @@ Problema que resuelve: Ayuda a los usuarios a crear contraseñas fuertes que son
 Dirigido a: Usuarios que necesitan contraseñas seguras de forma rápida, desarrolladores que buscan un ejemplo de manipulación de cadenas de texto en el frontend, o personas que buscan una herramienta de codificación simple.
 
 # Vista Previa
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b72d6390-f230-4629-bbba-53ffa643d7e9" />
+<img width="1356" height="688" alt="image" src="https://github.com/user-attachments/assets/5c2bf405-4486-49ec-9e4f-444187aa2f90" />
 
 # Tecnologías Empleadas
 
@@ -16,3 +16,4 @@ Tecnología	Descripción
 HTML5	Estructura principal de la aplicación.
 CSS3	Estilizado y diseño de la interfaz de usuario.
 JavaScript (Vanilla JS)	Lógica principal de generación/codificación y manejo del DOM.
+
