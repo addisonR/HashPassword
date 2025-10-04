@@ -1,6 +1,5 @@
 ﻿# SafeKey Generator
 
-🌟 Descripción del Proyecto
 Este proyecto es una aplicación web simple para generar contraseñas seguras y aleatorias (o para codificar/encriptar texto). Permite a los usuarios obtener rápidamente una cadena de caracteres robusta para proteger sus cuentas, garantizando la combinación de letras, números y símbolos para una máxima seguridad.
 
 Problema que resuelve: Ayuda a los usuarios a crear contraseñas fuertes que son difíciles de descifrar, combatiendo el uso de claves débiles y predecibles.
@@ -12,8 +11,12 @@ Dirigido a: Usuarios que necesitan contraseñas seguras de forma rápida, desarr
 
 # Tecnologías Empleadas
 
-Tecnología	Descripción
-HTML5	Estructura principal de la aplicación.
+EJS	Estructura principal de la aplicación.
 CSS3	Estilizado y diseño de la interfaz de usuario.
 JavaScript (Vanilla JS)	Lógica principal de generación/codificación y manejo del DOM.
+Express.js Framework para server.
+dotenv Para las variables de entorno.
+bcrypt Para el hashea de el texto plano.
+
+
 
