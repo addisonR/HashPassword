@@ -32,7 +32,6 @@ const copiarContraseña = async () => {
 
   navigator.clipboard.writeText(portapapeles);
   alert("¡Resultado copiado al portapapeles! 🎉");
-
   contraseña.value = "";
   resultado.value = "";
 };

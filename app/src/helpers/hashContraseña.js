@@ -4,8 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const router = Router();
-const saltRounds = process.env.SALT || 10;
-
+const saltRounds = parseInt(process.env.SALT) || 10;
 const hashContraseña = async (req, res) => {
   const { contraseña } = req.body;
 
