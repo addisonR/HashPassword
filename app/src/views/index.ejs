@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generador de Contraseñas</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Generador de Contraseñas</h1>
+    </header>
+    <main>
+      <div class="contenido">
+        <h2>Ingrese su contraseña a codificar:</h2>
+        <input
+          class="cajadetexto"
+          id="contraseña"
+          type="text"
+          placeholder="Ejemplo: Estaesmicontraseña"
+          required
+        />
+        <input
+          id="btn-success"
+          class="btn-generar"
+          type="button"
+          value="Generar"
+        />
+        <h2>Resuldado:</h2>
+        <input
+          id="resultado"
+          class="cajadetexto"
+          type="text"
+          placeholder="Ejemplo: sadas5161-*-/-9asdasd465"
+          disabled
+        />
+        <input
+          id="btn-copy"
+          class="btn-generar"
+          type="button"
+          value="Copy"
+          disabled
+        />
+      </div>
+    </main>
+    <footer>
+      <h3>Desarrollado por Addison Rivero</h3>
+    </footer>
+    <script src="/script.js"></script>
+  </body>
+</html>
